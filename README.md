@@ -10,4 +10,4 @@ https://henriqueoliveiraceub.github.io/AulasDCE/
 ## Projetos
 Aqui vc pode ver meus projetinhos
 
-- [Projeto 1] (Aula-6-Htmle-Css/Aula 6/index/index.html) - Responsividade
+- [Projeto 1] (Aula-6-Html-e-Css/Aula-6/index/index.html) - Responsividade
